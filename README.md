@@ -20,3 +20,26 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=beyzaerdogn&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+
+## 🌸💻 Tech Stack 🌸
+![C#](https://img.shields.io/badge/C%23-FF69B4?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-FF69B4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FF4500?style=for-the-badge&logo=java&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-FFC300?style=for-the-badge&logo=powerbi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white)
+
+
+![Flower Divider](https://your-image-link.com/flower-divider.png)
+
+## 🌸 Welcome to My GitHub Profile! 🌸
+
+I am passionate about technology and flowers 🌷. Here is a list of technologies I work with:
+
+![Flower Divider](https://your-image-link.com/flower-divider.png)
+
+## 💻 Tech Stack:
+![C#](https://img.shields.io/badge/C%23-FF69B4?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FF4500?style=for-the-badge&logo=java&logoColor=white)
+
+<img src="https://your-image-link.com/flower-banner.png" alt="Flower Banner" style="width:100%;"/>
+
