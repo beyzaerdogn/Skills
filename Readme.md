@@ -17,3 +17,5 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-FF69B4?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-FF1493?style=for-the-badge&logo=arduino&logoColor=white)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=beyzaerdogn&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
