@@ -15,3 +15,5 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-FF69B4?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-FF1493?style=for-the-badge&logo=arduino&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-FF69B4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FF4500?style=for-the-badge&logo=java&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-FFC300?style=for-the-badge&logo=powerbi&logoColor=white)
